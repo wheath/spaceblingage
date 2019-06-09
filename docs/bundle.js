@@ -33,7 +33,7 @@ image.crossOrigin = 'anonymous'
 // Once our image downloads we buffer our
 // 3d model data for the GPU
 image.onload = loadModel
-image.src = '/images/astnt1_1.bmp'
+image.src = '/spaceblingage/images/astnt1_1.bmp'
 
 // This prepare our data for the GPU
 // so that we can later draw it
